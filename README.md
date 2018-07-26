@@ -1,12 +1,12 @@
 # Notes from Jesse Shaw
 
-cd lvsf-fullstack-assignment/backend
-npm install
-npm start
+cd lvsf-fullstack-assignment/backend <br />
+npm install <br />
+npm start <br />
 
-cd ../frontend
-npm install
-npm start
+cd ../frontend <br />
+npm install <br />
+npm start <br />
 
 navigate to http://localhost:4200/
 
