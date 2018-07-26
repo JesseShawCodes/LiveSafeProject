@@ -1,5 +1,7 @@
 # Notes from Jesse Shaw
 
+git clone https://github.com/JesseShawCodes/LiveSafeProject.git <br />
+
 cd lvsf-fullstack-assignment/backend <br />
 npm install <br />
 npm start <br />
