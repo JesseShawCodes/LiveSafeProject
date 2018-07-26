@@ -4,7 +4,13 @@ import { Observable } from 'rxjs/Observable';
 
 import { NewsItem } from './news-item.interface';
 
-export const API = '/some-endpoint';
+/*
+Updated with Backend Server Link
+
+-JS
+*/
+
+export const API = 'http://localhost:3000/data';
 
 @Injectable()
 export class NewsService {
