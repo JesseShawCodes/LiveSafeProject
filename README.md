@@ -1,3 +1,15 @@
+# Notes from Jesse Shaw
+
+cd lvsf-fullstack-assignment/backend
+npm install
+npm start
+
+cd ../frontend
+npm install
+npm start
+
+navigate to http://localhost:4200/
+
 # LiveSafe Full Stack Assignment
 
 The purpose of this is to get a small sample of some of your work, and have something
@@ -16,3 +28,10 @@ To get started and submit your work.
 * When ready to submit create a patch of your work. (Ex: git diff origin/master master > mypatch.patch)
 
 * Email the mypatch.patch file back to the LiveSafe staff that sent the assignment
+
+
+
+
+
+
+
